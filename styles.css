@@ -1,0 +1,19 @@
+.body{
+    font-family: sans-serif;
+    text-align:center;
+    padding: 1rem;
+}
+
+
+.badge{
+    display:inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 999px;
+    color: white;
+    background: gray;
+}
+
+
+
+.open { background: green; }
+.closed { background: firebrick; }
